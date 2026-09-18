@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Local environments and credentials
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Downloaded and processed training data
+/data/
+/datasets/
+/raw_data/
+/processed_data/
+/tokenized_data/
+
+# Model weights, checkpoints, and experiment outputs
+/checkpoints/
+/artifacts/
+/outputs/
+/runs/
+/logs/
+/wandb/
+/tensorboard/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.gguf
+
+# Local scratch files
+/tmp/
+/scratch/
