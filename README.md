@@ -11,7 +11,7 @@ RTX 4060 Ti 16GB 한 장에서 **PyTorch로 decoder-only 언어모델을 직접 
 ## 문서
 
 - [PLAN.md](PLAN.md): 모델·데이터·학습·평가 설계와 단계별 통과 기준
-- [HANDOVER.md](HANDOVER.md): 회사와 집에서 작업을 이어가기 위한 현재 상태와 다음 작업
+- [HANDOVER.md](HANDOVER.md): 다른 장소에서 작업을 이어가기 위한 현재 상태와 다음 작업
 - [AGENTS.md](AGENTS.md): Codex의 프로젝트 작업 규칙
 
 ## 새 PC 또는 새 Codex 세션에서 시작하기
